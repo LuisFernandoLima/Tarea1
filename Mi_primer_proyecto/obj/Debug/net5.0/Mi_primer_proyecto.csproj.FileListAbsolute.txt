@@ -1,0 +1,16 @@
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.exe
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.deps.json
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.runtimeconfig.json
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.runtimeconfig.dev.json
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.dll
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\ref\Mi_primer_proyecto.dll
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\bin\Debug\net5.0\Mi_primer_proyecto.pdb
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.csproj.AssemblyReference.cache
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.AssemblyInfoInputs.cache
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.AssemblyInfo.cs
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.dll
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\ref\Mi_primer_proyecto.dll
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.pdb
+C:\Users\NANDO\Documents\Repositorios publicos\Progra 1\Mi_primer_proyecto\obj\Debug\net5.0\Mi_primer_proyecto.genruntimeconfig.cache
